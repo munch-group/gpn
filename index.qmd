@@ -1,24 +1,26 @@
 <!-- ---
 title: About
 author: My Name
-date: 'April 25nd, 2024'
+date: today
 format:
  html:
   code-fold: true
 --- -->
 
-# Preface { .unnumbered .noexport }
-
-These pages are generated from a Git repository...
+# Environment { .unnumbered .noexport }
 
 
 
 
-## Section { .unnumbered .noexport  }
+## Environment { .unnumbered .noexport  }
 
-{{< lipsum 1 >}} 
+```{.txt filename="Terminal"}
+conda env create -f binder/environment.yml
+```
 
-## Section { .unnumbered .noexport  }
+## Install GPN { .unnumbered .noexport  }
 
-{{< lipsum 1 >}} 
-
+```{.txt filename="Terminal"}
+conda activate gpn
+pip install git+https://github.com/songlab-cal/gpn.git
+```
