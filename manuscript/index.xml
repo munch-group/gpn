@@ -1322,11 +1322,11 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
   </sec>
   <sec id="subsection-with-code-nb-article">
     <title>Subsection (with code)</title>
-    <sec id="cell-945eb639-nb-article" specific-use="notebook-content">
+    <sec id="d1e52273-nb-article" specific-use="notebook-content">
     <code language="python"># this code is executed but not shown in the output
 x = 5</code>
     </sec>
-    <sec id="cell-4f8e5698-nb-article" specific-use="notebook-content">
+    <sec id="cell-8eb4b649-nb-article" specific-use="notebook-content">
     <p><italic>Pulvinar tempus nascetur sollicitudin fringilla
     sodales.</italic> The value of <monospace>x</monospace> is 5.
     <italic>Sapien ullamcorper pretium tellus ultricies sodales aliquet.
