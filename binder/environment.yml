@@ -2,8 +2,10 @@ name: gpn
 channels:
   - defaults
   - conda-forge
+  - bioconda
 dependencies:
   - pip
   - rust
   - pkg-config
-prefix: /Users/kmt/miniconda3/envs/gpn
+  - ncbi-datasets-cli
+  - snakemake
