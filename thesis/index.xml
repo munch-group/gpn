@@ -1,0 +1,1813 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>Title of my thesis</article-title>
+<subtitle>Some subtitle for my thesis</subtitle>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Name</surname>
+<given-names>Your</given-names>
+</name>
+<string-name>Your Name</string-name>
+
+<role>analysis,</role>
+<role></role>
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Munch</surname>
+<given-names>Kasper</given-names>
+</name>
+<string-name>Kasper Munch</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>Aarhus University</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1"></corresp>
+</author-notes>
+
+
+
+
+
+
+
+
+
+<history></history>
+
+
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="abstract">
+  <title>Abstract</title>
+  <p><italic>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+  ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+  culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum
+  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+  occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+  mollit anim id est laborum.</italic></p>
+</sec>
+<sec id="introduction">
+  <title>Introduction</title>
+  <p><italic>Fringilla sem fusce vivamus pellentesque in commodo
+  penatibus bibendum. Vestibulum aptent volutpat vehicula eu rutrum
+  lobortis consequat. Euismod lectus ultrices; duis duis ipsum rhoncus.
+  Ipsum vitae primis potenti suscipit per nascetur rutrum lobortis.
+  Scelerisque pulvinar duis interdum sapien elementum consequat vitae
+  orci. Suspendisse tempor nisl accumsan dolor potenti euismod
+  sed.</italic></p>
+  <sec id="subsection-with-references">
+    <title>Subsection (with references)</title>
+    <p>Skov et al. reported strong selection on the human X chromosome
+    (<xref alt="2023" rid="ref-Skov2023" ref-type="bibr">2023</xref>).
+    <italic>Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti. In fringilla gravida ornare. Aenean id lectus pulvinar,
+    sagittis felis nec, rutrum risus. Nam vel neque eu arcu blandit
+    fringilla et in quam. Aliquam luctus est sit amet vestibulum
+    eleifend.</italic> Lineages in small population have smaller
+    coalescence times, (see
+    <xref alt="Nielsen and Slatkin 2016, chap. 1" rid="ref-NielsenSlatkin2016" ref-type="bibr">Nielsen
+    and Slatkin 2016, chap. 1</xref>). <italic>Nunc ac dignissim magna.
+    Vestibulum vitae egestas elit. Proin feugiat leo quis ante
+    condimentum, eu ornare mauris feugiat. Pellentesque habitant morbi
+    tristique senectus et netus et malesuada fames ac turpis egestas.
+    Mauris cursus laoreet ex, ignissim bibendum est posuere iaculis.
+    Suspendisse et maximus elit.</italic> The neanderthal genome has
+    been sequenced
+    (<xref alt="Prüfer et al. 2012" rid="ref-Prufer2012" ref-type="bibr">Prüfer
+    et al. 2012</xref>). <italic>Nunc ac dignissim magna. Vestibulum
+    vitae egestas elit. Proin feugiat leo quis ante condimentum, eu
+    ornare mauris feugiat.</italic> The X chromosome is subject to
+    recurrent sweeps
+    (<xref alt="Nam et al. 2015" rid="ref-Nam2015" ref-type="bibr">Nam
+    et al. 2015</xref>;
+    <xref alt="Dutheil et al. 2015" rid="ref-Dutheil2015" ref-type="bibr">Dutheil
+    et al. 2015</xref>). <italic>Fusce et ellentesque ligula.
+    Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti. Pellentesque habitant morbi tristique senectus et netus et
+    malesuada fames ac turpis egestas.</italic> Following Munch et al.
+    (<xref alt="2014" rid="ref-Munch2014" ref-type="bibr">2014</xref>),
+    *dignissim magna. Vestibulum vitae egestas elit. Proin feugiat leo
+    quis ante condimentum, eu ornare mauris feugiat.</p>
+  </sec>
+  <sec id="subsubsection-with-illustrations">
+    <title>Subsubsection (with illustrations)</title>
+    <p><italic>In fringilla gravida ornare. Aenean id lectus pulvinar,
+    sagittis felis nec, rutrum risus. Nam vel neque eu arcu blandit
+    fringilla et in quam. Aliquam luctus est sit amet vestibulum
+    eleifend.</italic> You can see an elephant in
+    <xref alt="Figure 1" rid="fig-elephant">Figure 1</xref>.
+    <italic>Phasellus elementum sagittis molestie. Proin tempor lorem
+    arcu, at condimentum purus volutpat eu. Fusce et ellentesque ligula.
+    Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti.</italic></p>
+    <fig id="fig-elephant">
+      <caption><p>Figure 1: Some caption for an illustration showing an
+      elephant</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="illustrations/elephant.png" />
+    </fig>
+    <p><italic>Integer vulputate habitant quis vitae tristique.Aenean id
+    lectus pulvinar, sagittis felis nec, rutrum risus. Nam vel neque eu
+    arcu blandit fringilla et in quam. Aliquam luctus est sit amet
+    vestibulum eleifend. Phasellus elementum sagittis molestie. Proin
+    tempor lorem arcu, at condimentum purus volutpat eu. Fusce et
+    ellentesque ligula.</italic> There are two elephants in
+    <xref alt="Figure 2" rid="fig-twoelephants">Figure 2</xref>.
+    <italic>Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti.</italic> You can see an elephant in
+    <xref alt="Figure 1" rid="fig-elephant">Figure 1</xref>.</p>
+    <fig id="fig-twoelephants">
+      <caption><p>Figure 2: Some caption for an illustration with two
+      elephants.</p></caption>
+      <table-wrap>
+        <table>
+          <colgroup>
+            <col width="50%" />
+            <col width="50%" />
+          </colgroup>
+          <tbody>
+            <tr>
+              <td align="left"><p specific-use="wrapper">
+                <boxed-text>
+                  <fig id="fig-surus">
+                    <caption><p>(a)</p></caption>
+                    <graphic id="fig-surus" mimetype="image" mime-subtype="png" xlink:href="illustrations/elephant.png" />
+                  </fig>
+                </boxed-text>
+              </p></td>
+              <td align="left"><p specific-use="wrapper">
+                <boxed-text>
+                  <fig id="fig-hanno">
+                    <caption><p>(b)</p></caption>
+                    <graphic id="fig-hanno" mimetype="image" mime-subtype="png" xlink:href="illustrations/elephant.png" />
+                  </fig>
+                </boxed-text>
+              </p></td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </fig>
+  </sec>
+</sec>
+<sec id="methods">
+  <title>Methods</title>
+  <p><italic>Nam senectus ultricies class nulla primis mattis. Primis
+  feugiat nunc nec in a bibendum elit; vestibulum molestie. Luctus
+  vehicula euismod fermentum semper facilisis. Integer vulputate
+  habitant quis vitae tristique. Fringilla sem fusce vivamus
+  pellentesque in commodo penatibus bibendum. Vestibulum aptent volutpat
+  vehicula eu rutrum lobortis consequat. Scelerisque pulvinar duis
+  interdum sapien elementum consequat vitae orci. Suspendisse tempor
+  nisl accumsan dolor potenti euismod sed.</italic></p>
+  <sec id="subsection-with-text-from-notebook">
+    <title>Subsection (with text from notebook)</title>
+    <p>The 24 subjects from workplaces in Denmark were interviewed ….
+    blah blah blah blah blah blah blah blah blah blah blah blah blah
+    blah blah blah blah blah blah blah blah blah blah blah blah blah
+    blah blah blah blah blah blah blah blah blah blah</p>
+    <p><italic>Euismod lectus ultrices; duis duis ipsum rhoncus. Ipsum
+    vitae primis potenti suscipit per nascetur rutrum lobortis.
+    Suspendisse et maximus elit. In fringilla gravida ornare. Aenean id
+    lectus pulvinar, sagittis felis nec, rutrum risus. Nam vel neque eu
+    arcu blandit fringilla et in quam. Aliquam luctus est sit amet
+    vestibulum eleifend. Phasellus elementum sagittis molestie. Proin
+    tempor lorem arcu, at condimentum purus volutpat eu.</italic></p>
+  </sec>
+  <sec id="subsection-with-embedded-table-from-notebook">
+    <title>Subsection (with embedded table from notebook)</title>
+    <p>These were selected to represent as many nationalities as
+    possible (<xref alt="Table 1" rid="tbl-subjects">Table 1</xref>).
+    <italic>Proin feugiat leo quis ante condimentum, eu ornare mauris
+    feugiat. Pellentesque habitant morbi tristique senectus et netus et
+    malesuada fames ac turpis egestas. Mauris cursus laoreet ex,
+    ignissim bibendum est posuere iaculis. Suspendisse et maximus elit.
+    In fringilla gravida ornare. Aenean id lectus pulvinar, sagittis
+    felis nec, rutrum risus. Nam vel neque eu arcu blandit fringilla et
+    in quam.</italic></p>
+    <fig id="tbl-subjects">
+      <caption><p>Table 1: People included in the
+      analysis.</p></caption>
+      <table-wrap>
+        <table id="T_0b8ad">
+          <thead>
+            <tr>
+              <th id="T_0b8ad_level0_col0">name</th>
+              <th id="T_0b8ad_level0_col1">age</th>
+              <th id="T_0b8ad_level0_col2">sex</th>
+              <th id="T_0b8ad_level0_col3">position</th>
+              <th id="T_0b8ad_level0_col4">nationality</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td id="T_0b8ad_row0_col0">Julie</td>
+              <td id="T_0b8ad_row0_col1">27</td>
+              <td id="T_0b8ad_row0_col2">F</td>
+              <td id="T_0b8ad_row0_col3">PhDstudent</td>
+              <td id="T_0b8ad_row0_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row1_col0">Thomas</td>
+              <td id="T_0b8ad_row1_col1">33</td>
+              <td id="T_0b8ad_row1_col2">M</td>
+              <td id="T_0b8ad_row1_col3">Postdoc</td>
+              <td id="T_0b8ad_row1_col4">GB</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row2_col0">Emilie</td>
+              <td id="T_0b8ad_row2_col1">23</td>
+              <td id="T_0b8ad_row2_col2">F</td>
+              <td id="T_0b8ad_row2_col3">PhDstudent</td>
+              <td id="T_0b8ad_row2_col4">CH</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row3_col0">Sofie</td>
+              <td id="T_0b8ad_row3_col1">31</td>
+              <td id="T_0b8ad_row3_col2">F</td>
+              <td id="T_0b8ad_row3_col3">Postdoc</td>
+              <td id="T_0b8ad_row3_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row4_col0">Sara</td>
+              <td id="T_0b8ad_row4_col1">29</td>
+              <td id="T_0b8ad_row4_col2">F</td>
+              <td id="T_0b8ad_row4_col3">Postdoc</td>
+              <td id="T_0b8ad_row4_col4">US</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row5_col0">Cecilie</td>
+              <td id="T_0b8ad_row5_col1">34</td>
+              <td id="T_0b8ad_row5_col2">F</td>
+              <td id="T_0b8ad_row5_col3">Postdoc</td>
+              <td id="T_0b8ad_row5_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row6_col0">Anders</td>
+              <td id="T_0b8ad_row6_col1">32</td>
+              <td id="T_0b8ad_row6_col2">M</td>
+              <td id="T_0b8ad_row6_col3">PhDstudent</td>
+              <td id="T_0b8ad_row6_col4">UK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row7_col0">Emma</td>
+              <td id="T_0b8ad_row7_col1">42</td>
+              <td id="T_0b8ad_row7_col2">F</td>
+              <td id="T_0b8ad_row7_col3">Professor</td>
+              <td id="T_0b8ad_row7_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row8_col0">Caroline</td>
+              <td id="T_0b8ad_row8_col1">31</td>
+              <td id="T_0b8ad_row8_col2">F</td>
+              <td id="T_0b8ad_row8_col3">PhDstudent</td>
+              <td id="T_0b8ad_row8_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row9_col0">Laura</td>
+              <td id="T_0b8ad_row9_col1">30</td>
+              <td id="T_0b8ad_row9_col2">F</td>
+              <td id="T_0b8ad_row9_col3">Postdoc</td>
+              <td id="T_0b8ad_row9_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row10_col0">Mikkel</td>
+              <td id="T_0b8ad_row10_col1">33</td>
+              <td id="T_0b8ad_row10_col2">M</td>
+              <td id="T_0b8ad_row10_col3">Postdoc</td>
+              <td id="T_0b8ad_row10_col4">NL</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row11_col0">Jens</td>
+              <td id="T_0b8ad_row11_col1">27</td>
+              <td id="T_0b8ad_row11_col2">M</td>
+              <td id="T_0b8ad_row11_col3">PhDstudent</td>
+              <td id="T_0b8ad_row11_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row12_col0">Andreas</td>
+              <td id="T_0b8ad_row12_col1">29</td>
+              <td id="T_0b8ad_row12_col2">M</td>
+              <td id="T_0b8ad_row12_col3">PhDstudent</td>
+              <td id="T_0b8ad_row12_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row13_col0">Jakob</td>
+              <td id="T_0b8ad_row13_col1">28</td>
+              <td id="T_0b8ad_row13_col2">M</td>
+              <td id="T_0b8ad_row13_col3">PhDstudent</td>
+              <td id="T_0b8ad_row13_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row14_col0">Mathilde</td>
+              <td id="T_0b8ad_row14_col1">61</td>
+              <td id="T_0b8ad_row14_col2">F</td>
+              <td id="T_0b8ad_row14_col3">Professor</td>
+              <td id="T_0b8ad_row14_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row15_col0">Katrine</td>
+              <td id="T_0b8ad_row15_col1">35</td>
+              <td id="T_0b8ad_row15_col2">F</td>
+              <td id="T_0b8ad_row15_col3">Postdoc</td>
+              <td id="T_0b8ad_row15_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row16_col0">Poul</td>
+              <td id="T_0b8ad_row16_col1">30</td>
+              <td id="T_0b8ad_row16_col2">M</td>
+              <td id="T_0b8ad_row16_col3">Postdoc</td>
+              <td id="T_0b8ad_row16_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row17_col0">Anna</td>
+              <td id="T_0b8ad_row17_col1">26</td>
+              <td id="T_0b8ad_row17_col2">F</td>
+              <td id="T_0b8ad_row17_col3">PhDstudent</td>
+              <td id="T_0b8ad_row17_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row18_col0">Peter</td>
+              <td id="T_0b8ad_row18_col1">42</td>
+              <td id="T_0b8ad_row18_col2">M</td>
+              <td id="T_0b8ad_row18_col3">Professor</td>
+              <td id="T_0b8ad_row18_col4">GB</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row19_col0">Ida</td>
+              <td id="T_0b8ad_row19_col1">53</td>
+              <td id="T_0b8ad_row19_col2">F</td>
+              <td id="T_0b8ad_row19_col3">Postdoc</td>
+              <td id="T_0b8ad_row19_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row20_col0">Freja</td>
+              <td id="T_0b8ad_row20_col1">30</td>
+              <td id="T_0b8ad_row20_col2">F</td>
+              <td id="T_0b8ad_row20_col3">Postdoc</td>
+              <td id="T_0b8ad_row20_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row21_col0">Maria</td>
+              <td id="T_0b8ad_row21_col1">39</td>
+              <td id="T_0b8ad_row21_col2">F</td>
+              <td id="T_0b8ad_row21_col3">Professor</td>
+              <td id="T_0b8ad_row21_col4">UK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row22_col0">Amalie</td>
+              <td id="T_0b8ad_row22_col1">29</td>
+              <td id="T_0b8ad_row22_col2">F</td>
+              <td id="T_0b8ad_row22_col3">PhDstudent</td>
+              <td id="T_0b8ad_row22_col4">DK</td>
+            </tr>
+            <tr>
+              <td id="T_0b8ad_row23_col0">Camilla</td>
+              <td id="T_0b8ad_row23_col1">35</td>
+              <td id="T_0b8ad_row23_col2">F</td>
+              <td id="T_0b8ad_row23_col3">Postdoc</td>
+              <td id="T_0b8ad_row23_col4">DK</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </fig>
+    <p><italic>Aenean id lectus pulvinar, sagittis felis nec, rutrum
+    risus. Nam vel neque eu arcu blandit fringilla et in quam. Aliquam
+    luctus est sit amet vestibulum eleifend. Phasellus elementum
+    sagittis molestie. Proin tempor lorem arcu, at condimentum purus
+    volutpat eu. Fusce et ellentesque ligula. Pellentesque id tellus at
+    erat luctus fringilla. Suspendisse potenti.</italic></p>
+  </sec>
+  <sec id="subsection-with-math">
+    <title>Subsection (with math)</title>
+    <p><italic>Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum. In fringilla
+    gravida ornare. Aenean id lectus pulvinar, sagittis felis nec,
+    rutrum risus. Nam vel neque eu arcu blandit fringilla et in
+    quam.</italic> This is calculated as <inline-formula><alternatives>
+    <tex-math><![CDATA[\pi_k = \prod_{i=1}^K x_i]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:msub><mml:mi>π</mml:mi><mml:mi>k</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msubsup><mml:mo>∏</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>K</mml:mi></mml:msubsup><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math></alternatives></inline-formula>.
+    <italic>Phasellus elementum sagittis molestie. Proin tempor lorem
+    arcu, at condimentum purus volutpat eu. Fusce et ellentesque ligula.
+    Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti</italic> as shown in
+    (<xref alt="Equation 1" rid="eq-stat">Equation 1</xref>).</p>
+    <p><styled-content id="eq-stat"><disp-formula><alternatives>
+    <tex-math><![CDATA[
+    \lambda = \sum_{k=1}^N \pi_k
+     \qquad(1)]]></tex-math>
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:msub><mml:mi>π</mml:mi><mml:mi>k</mml:mi></mml:msub><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+    <p>As shown in
+    <xref alt="Equation 2" rid="eq-lineq">Equation 2</xref>, <italic>ac
+    dignissim magna. Vestibulum vitae egestas elit. Proin feugiat leo
+    quis ante condimentum, eu ornare mauris feugiat. Pellentesque
+    habitant morbi tristique senectus et netus et malesuada fames ac
+    turpis egestas. Mauris cursus laoreet ex, ignissim bibendum est
+    posuere iaculis. Suspendisse et maximus elit.</italic></p>
+    <p><styled-content id="eq-lineq"><disp-formula><alternatives>
+    <tex-math><![CDATA[
+    y \sim \beta_1 x + \beta_2
+     \qquad(2)]]></tex-math>
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>y</mml:mi><mml:mo>∼</mml:mo><mml:msub><mml:mi>β</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>2</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+  </sec>
+  <sec id="subsection-with-code">
+    <title>Subsection (with code)</title>
+    <p><italic>Pulvinar tempus nascetur sollicitudin fringilla
+    sodales.</italic> The value of <monospace>x</monospace> is 5.
+    <italic>Sapien ullamcorper pretium tellus ultricies sodales aliquet.
+    Proin eros iaculis fames mus cubilia praesent cubilia. Nulla quam
+    montes sed varius nullam non. Mi turpis sagittis ornare condimentum
+    consectetur.</italic> In Python, we can define a variable like
+    this:</p>
+    <code language="python">y = 4</code>
+    <sec id="subsection-bold-and-italics">
+      <title>Subsection (bold and italics)</title>
+      <p><bold>This is bold</bold>, <bold>so is this</bold>.
+      <italic>This is italics</italic>, <italic>so is this</italic>.
+      <bold><italic>This is both</italic></bold>, <bold><italic>so is
+      this</italic></bold>. <italic>Pulvinar tempus nascetur
+      sollicitudin fringilla sodales. Urna lorem nisi volutpat; lobortis
+      dapibus auctor mollis. Suscipit conubia neque cras curae vitae
+      curabitur facilisi inceptos ante. Vehicula volutpat nulla nostra
+      inceptos parturient dui purus ipsum ante.</italic></p>
+    </sec>
+    <sec id="subsubsection">
+      <title>Subsubsection</title>
+      <p><italic>Pulvinar tempus nascetur sollicitudin fringilla
+      sodales. Urna lorem nisi volutpat; lobortis dapibus auctor mollis.
+      Suscipit conubia neque cras curae vitae curabitur facilisi
+      inceptos ante. Phasellus augue inceptos nulla; amet id egestas ad.
+      Enim ad eget nullam fames blandit neque varius mi. Velit pretium
+      est conubia montes gravida. Vehicula volutpat nulla nostra
+      inceptos parturient dui purus ipsum ante.</italic></p>
+    </sec>
+  </sec>
+</sec>
+<sec id="results">
+  <title>Results</title>
+  <p><italic>Sapien ullamcorper pretium tellus ultricies sodales
+  aliquet. Proin eros iaculis fames mus cubilia praesent cubilia. Nulla
+  quam montes sed varius nullam non. Mi turpis sagittis ornare
+  condimentum consectetur. Aenean orci sagittis nibh venenatis natoque
+  bibendum semper vel. Interdum per velit lacus ridiculus augue
+  convallis mollis. Faucibus eget eros aptent; fusce magnis lacinia
+  duis. Justo ad fames laoreet nisl viverra.</italic></p>
+  <sec id="section-with-embedded-figures-from-notebooks">
+    <title>Section (with embedded figures from notebooks)</title>
+    <p><italic>Pretium id vestibulum tristique ornare cras. Litora odio
+    mus nullam molestie himenaeos neque lacus bibendum penatibus. Velit
+    porttitor eget massa hac massa feugiat netus ac. Sodales scelerisque
+    imperdiet curae luctus iaculis est vehicula elementum.</italic>
+    (<xref alt="Figure 3" rid="fig-danishinteraction">Figure 3</xref>).</p>
+    <fig id="fig-danishinteraction">
+      <caption><p>Figure 3: Figure legends are defined alongside the
+      figure in the notebook. The figure size in the notebook is
+      determines its size when embedded in a document 4x3
+      inches.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/..-notebooks-example-fig-danishinteraction-output-1.png" />
+    </fig>
+    <p>As shown in
+    <xref alt="Figure 4" rid="fig-meaninformality">Figure 4</xref>,
+    <italic>feugiat leo quis ante condimentum, eu ornare mauris feugiat.
+    Pellentesque habitant morbi tristique senectus et netus et malesuada
+    fames ac turpis egestas. Mauris cursus laoreet ex, ignissim bibendum
+    est posuere iaculis. Suspendisse et maximus elit. In fringilla
+    gravida ornare. Aenean id lectus pulvinar, sagittis felis nec,
+    rutrum risus. Nam vel neque eu arcu blandit fringilla et in quam.
+    Aliquam luctus est sit amet vestibulum eleifend.</italic></p>
+    <fig id="fig-meaninformality">
+      <caption><p>Figure 4: Figure legends are defined alongside the
+      figure in the notebook. The figure size in the notebook is
+      determines its size when embedded in a document 4x3
+      inches.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/..-notebooks-example-fig-meaninformality-output-1.png" />
+    </fig>
+  </sec>
+  <sec id="section-with-table-embedded-from-notebook">
+    <title>Section (with table embedded from notebook)</title>
+    <p><italic>Cubilia hendrerit ipsum suspendisse curae curae
+    suspendisse scelerisque semper luctus. Erat turpis dictum bibendum
+    taciti pharetra. Nisi sed vestibulum felis duis; dapibus id. Justo
+    semper felis potenti commodo class. Mauris venenatis purus integer
+    urna cras faucibus. Eu consequat varius massa porttitor nisi. Est
+    fringilla sed senectus ante fames ipsum aenean porta neque,</italic>
+    <xref alt="Table 2" rid="tbl-meaninformality">Table 2</xref> lists
+    the mean interaction scores by position and nationality.</p>
+    <fig id="tbl-meaninformality">
+      <caption><p>Table 2: Mean interaction scores by position and
+      nationality.</p></caption>
+      <table-wrap>
+        <table id="T_fca36">
+          <thead>
+            <tr>
+              <th id="T_fca36_level0_col0">position</th>
+              <th id="T_fca36_level0_col1">nationality</th>
+              <th id="T_fca36_level0_col2">informality</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td id="T_fca36_row0_col0">Professor</td>
+              <td id="T_fca36_row0_col1">UK</td>
+              <td id="T_fca36_row0_col2">8.949278</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row1_col0">PhDstudent</td>
+              <td id="T_fca36_row1_col1">CH</td>
+              <td id="T_fca36_row1_col2">9.623167</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row2_col0">Postdoc</td>
+              <td id="T_fca36_row2_col1">NL</td>
+              <td id="T_fca36_row2_col2">9.892308</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row3_col0">Postdoc</td>
+              <td id="T_fca36_row3_col1">DK</td>
+              <td id="T_fca36_row3_col2">10.175595</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row4_col0">PhDstudent</td>
+              <td id="T_fca36_row4_col1">DK</td>
+              <td id="T_fca36_row4_col2">10.220303</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row5_col0">Professor</td>
+              <td id="T_fca36_row5_col1">DK</td>
+              <td id="T_fca36_row5_col2">10.234365</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row6_col0">Postdoc</td>
+              <td id="T_fca36_row6_col1">GB</td>
+              <td id="T_fca36_row6_col2">10.431451</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row7_col0">Postdoc</td>
+              <td id="T_fca36_row7_col1">US</td>
+              <td id="T_fca36_row7_col2">10.808717</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row8_col0">Professor</td>
+              <td id="T_fca36_row8_col1">GB</td>
+              <td id="T_fca36_row8_col2">11.626458</td>
+            </tr>
+            <tr>
+              <td id="T_fca36_row9_col0">PhDstudent</td>
+              <td id="T_fca36_row9_col1">UK</td>
+              <td id="T_fca36_row9_col2">11.709714</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </fig>
+    <p><italic>Ligula molestie convallis magnis elit tellus volutpat.
+    Hac id in libero nibh inceptos. Malesuada blandit porttitor ad;
+    netus integer tortor. Quis venenatis lorem sit ex hendrerit porta
+    in. Purus praesent felis eget class luctus condimentum finibus quis
+    tincidunt. Nam lectus malesuada primis dapibus consectetur. Quam
+    placerat nam ullamcorper fusce conubia fermentum himenaeos gravida
+    nostra.</italic></p>
+    <sec id="discussion">
+      <title>Discussion</title>
+      <p><italic>Sociosqu iaculis molestie consectetur; pulvinar
+      imperdiet pellentesque sollicitudin erat. Varius mattis neque
+      blandit sodales mauris vestibulum. Iaculis sodales euismod neque
+      risus nostra magna fermentum eleifend. Tempus consequat montes nec
+      quisque urna quam non montes. Accumsan ligula mauris nullam
+      nascetur maximus sodales. Non tellus vel aliquam aenean nulla
+      turpis curabitur potenti. Eleifend luctus mi primis elementum,
+      rhoncus quisque. Aenean semper blandit cursus sapien; eget sem.
+      Posuere ultricies torquent tellus ridiculus enim placerat
+      malesuada tempus.</italic></p>
+      <p><italic>Sapien ullamcorper pretium tellus ultricies sodales
+      aliquet. Proin eros iaculis fames mus cubilia praesent cubilia.
+      Nulla quam montes sed varius nullam non. Mi turpis sagittis ornare
+      condimentum consectetur. Aenean orci sagittis nibh venenatis
+      natoque bibendum semper vel. Interdum per velit lacus ridiculus
+      augue convallis mollis. Faucibus eget eros aptent; fusce magnis
+      lacinia duis. Justo ad fames laoreet nisl viverra.</italic></p>
+    </sec>
+    <sec id="conclusion">
+      <title>Conclusion</title>
+      <p><italic>Laoreet ullamcorper urna et amet nunc faucibus finibus.
+      Eget consequat sed integer bibendum a mollis nisl luctus. Orci leo
+      quisque inceptos imperdiet proin. Pellentesque commodo parturient
+      maecenas eu leo malesuada ullamcorper nulla viverra. Arcu ligula
+      imperdiet quisque finibus in curae et accumsan. Egestas gravida
+      sollicitudin venenatis pellentesque litora leo.</italic></p>
+      <p><italic>Cras velit donec in a morbi ligula, ultrices at tempor.
+      Auctor lectus in aptent suscipit congue. Urna dui metus risus
+      eleifend odio nisl magna. Nascetur fringilla metus proin vitae in
+      diam. Class tincidunt lorem et dictum quisque arcu euismod.
+      Adipiscing dui interdum aptent fusce pretium pretium. Efficitur
+      imperdiet sem dictumst ultrices id rhoncus. Congue lacus efficitur
+      scelerisque nibh vestibulum.</italic></p>
+    </sec>
+  </sec>
+</sec>
+<sec id="bon-mot">
+  <title>Bon mot</title>
+  <disp-quote>
+    <p>Nothing in Biology Makes Sense except in the Light of
+    Evolution</p>
+    <p>- Theodosius Dobzhansky</p>
+  </disp-quote>
+</sec>
+</body>
+
+<back>
+<ref-list>
+  <title>References</title>
+  <ref id="ref-NielsenSlatkin2016">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Nielsen</surname><given-names>Rasmgb</given-names></name>
+        <name><surname>Slatkin</surname><given-names>Montgomery</given-names></name>
+      </person-group>
+      <source>An introduction to population genetics: Theory and applications</source>
+      <year iso-8601-date="2016">2016</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Dutheil2015">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Dutheil</surname><given-names>Julien Y</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Nam</surname><given-names>Kiwoong</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel H</given-names></name>
+      </person-group>
+      <article-title>Strong Selective Sweeps on the X Chromosome in the Human-Chimpanzee Ancestor Explain Its Low Divergence</article-title>
+      <source>PLOS Genetics</source>
+      <year iso-8601-date="2015">2015</year>
+      <volume>11</volume>
+      <issue>8</issue>
+      <issn>1553-7390</issn>
+      <pub-id pub-id-type="doi">10.1371/journal.pgen.1005451</pub-id>
+      <pub-id pub-id-type="pmid">26274919</pub-id>
+      <fpage>e1005451</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Skov2023">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Skov</surname><given-names>Laurits</given-names></name>
+        <name><surname>Macià</surname><given-names>Moisès Coll</given-names></name>
+        <name><surname>Lucotte</surname><given-names>Elise Anne</given-names></name>
+        <name><surname>Cavassim</surname><given-names>Maria Izabel Alvez</given-names></name>
+        <name><surname>Castellano</surname><given-names>David</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel Heide</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+      </person-group>
+      <article-title>Extraordinary selection on the human X chromosome associated with archaic admixture</article-title>
+      <source>Cell Genomics</source>
+      <year iso-8601-date="2023">2023</year>
+      <issn>2666-979X</issn>
+      <pub-id pub-id-type="doi">10.1016/j.xgen.2023.100274</pub-id>
+      <fpage>100274</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Nam2015">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Nam</surname><given-names>Kiwoong</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Hobolth</surname><given-names>Asger</given-names></name>
+        <name><surname>Dutheil</surname><given-names>Julien</given-names></name>
+        <name><surname>Veeramah</surname><given-names>Krishna R</given-names></name>
+        <name><surname>Woerner</surname><given-names>August E</given-names></name>
+        <name><surname>Hammer</surname><given-names>Michael F</given-names></name>
+        <name><surname>Project</surname><given-names>Great</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel</given-names></name>
+        <name><surname>Prado-Martinez</surname><given-names>Javier</given-names></name>
+        <name><surname>Sudmant</surname><given-names>Peter H</given-names></name>
+        <name><surname>Kidd</surname><given-names>Jeffrey M</given-names></name>
+        <name><surname>Li</surname><given-names>Heng</given-names></name>
+        <name><surname>Kelley</surname><given-names>Joanna L</given-names></name>
+        <name><surname>Lorente-Galdos</surname><given-names>Belen</given-names></name>
+        <name><surname>O’Connor</surname><given-names>Timothy D</given-names></name>
+        <name><surname>Santpere</surname><given-names>Gabriel</given-names></name>
+        <name><surname>Cagan</surname><given-names>Alexander</given-names></name>
+        <name><surname>Theunert</surname><given-names>Christoph</given-names></name>
+        <name><surname>Casals</surname><given-names>Ferran</given-names></name>
+        <name><surname>Laayouni</surname><given-names>Hafid</given-names></name>
+        <name><surname>Halager</surname><given-names>Anders E</given-names></name>
+        <name><surname>Malig</surname><given-names>Maika</given-names></name>
+        <name><surname>Hernandez-Rodriguez</surname><given-names>Jessica</given-names></name>
+        <name><surname>Hernando-Herraez</surname><given-names>Irene</given-names></name>
+        <name><surname>Prüfer</surname><given-names>Kay</given-names></name>
+        <name><surname>Pybus</surname><given-names>Marc</given-names></name>
+        <name><surname>Johnstone</surname><given-names>Laurel</given-names></name>
+        <name><surname>Lachmann</surname><given-names>Michael</given-names></name>
+        <name><surname>Alkan</surname><given-names>Can</given-names></name>
+        <name><surname>Twigg</surname><given-names>Dorina</given-names></name>
+        <name><surname>Petit</surname><given-names>Natalia</given-names></name>
+        <name><surname>Baker</surname><given-names>Carl</given-names></name>
+        <name><surname>Hormozdiari</surname><given-names>Fereydoun</given-names></name>
+        <name><surname>Fernandez-Callejo</surname><given-names>Marcos</given-names></name>
+        <name><surname>Dabad</surname><given-names>Marc</given-names></name>
+        <name><surname>Wilson</surname><given-names>Michael L</given-names></name>
+        <name><surname>Stevison</surname><given-names>Laurie</given-names></name>
+        <name><surname>Camprubí</surname><given-names>Cristina</given-names></name>
+        <name><surname>Carvalho</surname><given-names>Tiago</given-names></name>
+        <name><surname>Ruiz-Herrera</surname><given-names>Aurora</given-names></name>
+        <name><surname>Vives</surname><given-names>Laura</given-names></name>
+        <name><surname>Mele</surname><given-names>Marta</given-names></name>
+        <name><surname>Abello</surname><given-names>Teresa</given-names></name>
+        <name><surname>Kondova</surname><given-names>Ivanela</given-names></name>
+        <name><surname>Bontrop</surname><given-names>Ronald E</given-names></name>
+        <name><surname>Pusey</surname><given-names>Anne</given-names></name>
+        <name><surname>Lankester</surname><given-names>Felix</given-names></name>
+        <name><surname>Kiyang</surname><given-names>John A</given-names></name>
+        <name><surname>Bergl</surname><given-names>Richard A</given-names></name>
+        <name><surname>Lonsdorf</surname><given-names>Elizabeth</given-names></name>
+        <name><surname>Myers</surname><given-names>Simon</given-names></name>
+        <name><surname>Ventura</surname><given-names>Mario</given-names></name>
+        <name><surname>Gagneux</surname><given-names>Pascal</given-names></name>
+        <name><surname>Comas</surname><given-names>David</given-names></name>
+        <name><surname>Siegismund</surname><given-names>Hans</given-names></name>
+        <name><surname>Blanc</surname><given-names>Julie</given-names></name>
+        <name><surname>Agueda-Calpena</surname><given-names>Lidia</given-names></name>
+        <name><surname>Gut</surname><given-names>Marta</given-names></name>
+        <name><surname>Fulton</surname><given-names>Lucinda</given-names></name>
+        <name><surname>Tishkoff</surname><given-names>Sarah A</given-names></name>
+        <name><surname>Mullikin</surname><given-names>James C</given-names></name>
+        <name><surname>Wilson</surname><given-names>Richard K</given-names></name>
+        <name><surname>Gut</surname><given-names>Ivo G</given-names></name>
+        <name><surname>Gonder</surname><given-names>Mary</given-names></name>
+        <name><surname>Ryder</surname><given-names>Oliver A</given-names></name>
+        <name><surname>Hahn</surname><given-names>Beatrice H</given-names></name>
+        <name><surname>Navarro</surname><given-names>Arcadi</given-names></name>
+        <name><surname>Akey</surname><given-names>Joshua M</given-names></name>
+        <name><surname>Bertranpetit</surname><given-names>Jaume</given-names></name>
+        <name><surname>Reich</surname><given-names>David</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel H</given-names></name>
+        <name><surname>Hvilsom</surname><given-names>Christina</given-names></name>
+        <name><surname>Andrés</surname><given-names>Aida M</given-names></name>
+        <name><surname>Wall</surname><given-names>Jeffrey D</given-names></name>
+        <name><surname>Bustamante</surname><given-names>Carlos D</given-names></name>
+        <name><surname>Eichler</surname><given-names>Evan E</given-names></name>
+        <name><surname>Marques-Bonet</surname><given-names>Tomas</given-names></name>
+      </person-group>
+      <article-title>Extreme selective sweeps independently targeted the X chromosomes of the great apes</article-title>
+      <source>Proceedings of the National Academy of Sciences</source>
+      <year iso-8601-date="2015">2015</year>
+      <volume>112</volume>
+      <issue>20</issue>
+      <issn>0027-8424</issn>
+      <pub-id pub-id-type="doi">10.1073/pnas.1419306112</pub-id>
+      <pub-id pub-id-type="pmid">25941379</pub-id>
+      <fpage>6413</fpage>
+      <lpage>8</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Munch2014">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Dutheil</surname><given-names>Julien Y</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel</given-names></name>
+      </person-group>
+      <article-title>A fine-scale recombination map of the human–chimpanzee ancestor reveals faster change in humans than in chimpanzees and a strong impact of GC-biased gene conversion</article-title>
+      <source>Genome Research</source>
+      <year iso-8601-date="2014">2014</year>
+      <volume>24</volume>
+      <issue>3</issue>
+      <issn>1088-9051</issn>
+      <pub-id pub-id-type="doi">10.1101/gr.158469.113</pub-id>
+      <pub-id pub-id-type="pmid">24190946</pub-id>
+      <fpage>467</fpage>
+      <lpage>474</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Prufer2012">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Prüfer</surname><given-names>Kay</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Hellmann</surname><given-names>Ines</given-names></name>
+        <name><surname>Akagi</surname><given-names>Keiko</given-names></name>
+        <name><surname>Miller</surname><given-names>Jason R.</given-names></name>
+        <name><surname>Walenz</surname><given-names>Brian</given-names></name>
+        <name><surname>Koren</surname><given-names>Sergey</given-names></name>
+        <name><surname>Sutton</surname><given-names>Granger</given-names></name>
+        <name><surname>Kodira</surname><given-names>Chinnappa</given-names></name>
+        <name><surname>Winer</surname><given-names>Roger</given-names></name>
+        <name><surname>Knight</surname><given-names>James R.</given-names></name>
+        <name><surname>Mullikin</surname><given-names>James C.</given-names></name>
+        <name><surname>Meader</surname><given-names>Stephen J.</given-names></name>
+        <name><surname>Ponting</surname><given-names>Chris P.</given-names></name>
+        <name><surname>Lunter</surname><given-names>Gerton</given-names></name>
+        <name><surname>Higashino</surname><given-names>Saneyuki</given-names></name>
+        <name><surname>Hobolth</surname><given-names>Asger</given-names></name>
+        <name><surname>Dutheil</surname><given-names>Julien</given-names></name>
+        <name><surname>Karakoç</surname><given-names>Emre</given-names></name>
+        <name><surname>Alkan</surname><given-names>Can</given-names></name>
+        <name><surname>Sajjadian</surname><given-names>Saba</given-names></name>
+        <name><surname>Catacchio</surname><given-names>Claudia Rita</given-names></name>
+        <name><surname>Ventura</surname><given-names>Mario</given-names></name>
+        <name><surname>Marques-Bonet</surname><given-names>Tomas</given-names></name>
+        <name><surname>Eichler</surname><given-names>Evan E.</given-names></name>
+        <name><surname>André</surname><given-names>Claudine</given-names></name>
+        <name><surname>Atencia</surname><given-names>Rebeca</given-names></name>
+        <name><surname>Mugisha</surname><given-names>Lawrence</given-names></name>
+        <name><surname>Junhold</surname><given-names>Jörg</given-names></name>
+        <name><surname>Patterson</surname><given-names>Nick</given-names></name>
+        <name><surname>Siebauer</surname><given-names>Michael</given-names></name>
+        <name><surname>Good</surname><given-names>Jeffrey M.</given-names></name>
+        <name><surname>Fischer</surname><given-names>Anne</given-names></name>
+        <name><surname>Ptak</surname><given-names>Susan E.</given-names></name>
+        <name><surname>Lachmann</surname><given-names>Michael</given-names></name>
+        <name><surname>Symer</surname><given-names>David E.</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel H.</given-names></name>
+        <name><surname>Andrés</surname><given-names>Aida M.</given-names></name>
+        <name><surname>Kelso</surname><given-names>Janet</given-names></name>
+        <name><surname>Pääbo</surname><given-names>Svante</given-names></name>
+      </person-group>
+      <article-title>The bonobo genome compared with the chimpanzee and human genomes</article-title>
+      <source>Nature</source>
+      <year iso-8601-date="2012">2012</year>
+      <volume>486</volume>
+      <issue>7404</issue>
+      <issn>0028-0836</issn>
+      <pub-id pub-id-type="doi">10.1038/nature11128</pub-id>
+      <pub-id pub-id-type="pmid">22722832</pub-id>
+      <fpage>527</fpage>
+      <lpage>31</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+<sub-article article-type="notebook" id="nb-2-nb-article">
+<front-stub>
+<title-group>
+<article-title>Title of my thesis</article-title>
+<subtitle>Some subtitle for my thesis</subtitle>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Name</surname>
+<given-names>Your</given-names>
+</name>
+<string-name>Your Name</string-name>
+
+<role>analysis,</role>
+<role></role>
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+<xref ref-type="corresp" rid="cor-1-nb-article">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Munch</surname>
+<given-names>Kasper</given-names>
+</name>
+<string-name>Kasper Munch</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+<xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1-nb-article">
+<institution-wrap>
+<institution>Aarhus University</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1-nb-article"></corresp>
+</author-notes>
+</front-stub>
+
+<body>
+<sec id="abstract-nb-article">
+  <title>Abstract</title>
+  <p><italic>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+  enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+  ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+  culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum
+  dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+  occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+  mollit anim id est laborum.</italic></p>
+</sec>
+<sec id="introduction-nb-article">
+  <title>Introduction</title>
+  <p><italic>Fringilla sem fusce vivamus pellentesque in commodo
+  penatibus bibendum. Vestibulum aptent volutpat vehicula eu rutrum
+  lobortis consequat. Euismod lectus ultrices; duis duis ipsum rhoncus.
+  Ipsum vitae primis potenti suscipit per nascetur rutrum lobortis.
+  Scelerisque pulvinar duis interdum sapien elementum consequat vitae
+  orci. Suspendisse tempor nisl accumsan dolor potenti euismod
+  sed.</italic></p>
+  <sec id="subsection-with-references-nb-article">
+    <title>Subsection (with references)</title>
+    <p>Skov et al. reported strong selection on the human X chromosome
+    (<xref alt="2023" rid="ref-Skov2023-nb-article" ref-type="bibr">2023</xref>).
+    <italic>Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti. In fringilla gravida ornare. Aenean id lectus pulvinar,
+    sagittis felis nec, rutrum risus. Nam vel neque eu arcu blandit
+    fringilla et in quam. Aliquam luctus est sit amet vestibulum
+    eleifend.</italic> Lineages in small population have smaller
+    coalescence times, (see
+    <xref alt="Nielsen and Slatkin 2016, chap. 1" rid="ref-NielsenSlatkin2016-nb-article" ref-type="bibr">Nielsen
+    and Slatkin 2016, chap. 1</xref>). <italic>Nunc ac dignissim magna.
+    Vestibulum vitae egestas elit. Proin feugiat leo quis ante
+    condimentum, eu ornare mauris feugiat. Pellentesque habitant morbi
+    tristique senectus et netus et malesuada fames ac turpis egestas.
+    Mauris cursus laoreet ex, ignissim bibendum est posuere iaculis.
+    Suspendisse et maximus elit.</italic> The neanderthal genome has
+    been sequenced
+    (<xref alt="Prüfer et al. 2012" rid="ref-Prufer2012-nb-article" ref-type="bibr">Prüfer
+    et al. 2012</xref>). <italic>Nunc ac dignissim magna. Vestibulum
+    vitae egestas elit. Proin feugiat leo quis ante condimentum, eu
+    ornare mauris feugiat.</italic> The X chromosome is subject to
+    recurrent sweeps
+    (<xref alt="Nam et al. 2015" rid="ref-Nam2015-nb-article" ref-type="bibr">Nam
+    et al. 2015</xref>;
+    <xref alt="Dutheil et al. 2015" rid="ref-Dutheil2015-nb-article" ref-type="bibr">Dutheil
+    et al. 2015</xref>). <italic>Fusce et ellentesque ligula.
+    Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti. Pellentesque habitant morbi tristique senectus et netus et
+    malesuada fames ac turpis egestas.</italic> Following Munch et al.
+    (<xref alt="2014" rid="ref-Munch2014-nb-article" ref-type="bibr">2014</xref>),
+    *dignissim magna. Vestibulum vitae egestas elit. Proin feugiat leo
+    quis ante condimentum, eu ornare mauris feugiat.</p>
+  </sec>
+  <sec id="subsubsection-with-illustrations-nb-article">
+    <title>Subsubsection (with illustrations)</title>
+    <p><italic>In fringilla gravida ornare. Aenean id lectus pulvinar,
+    sagittis felis nec, rutrum risus. Nam vel neque eu arcu blandit
+    fringilla et in quam. Aliquam luctus est sit amet vestibulum
+    eleifend.</italic> You can see an elephant in
+    <xref alt="Figure 1" rid="fig-elephant-nb-article">Figure 1</xref>.
+    <italic>Phasellus elementum sagittis molestie. Proin tempor lorem
+    arcu, at condimentum purus volutpat eu. Fusce et ellentesque ligula.
+    Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti.</italic></p>
+    <fig id="fig-elephant-nb-article">
+      <caption><p>Figure 1: Some caption for an illustration showing an
+      elephant</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="illustrations/elephant.png" />
+    </fig>
+    <p><italic>Integer vulputate habitant quis vitae tristique.Aenean id
+    lectus pulvinar, sagittis felis nec, rutrum risus. Nam vel neque eu
+    arcu blandit fringilla et in quam. Aliquam luctus est sit amet
+    vestibulum eleifend. Phasellus elementum sagittis molestie. Proin
+    tempor lorem arcu, at condimentum purus volutpat eu. Fusce et
+    ellentesque ligula.</italic> There are two elephants in
+    <xref alt="Figure 2" rid="fig-twoelephants-nb-article">Figure 2</xref>.
+    <italic>Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti.</italic> You can see an elephant in
+    <xref alt="Figure 1" rid="fig-elephant-nb-article">Figure 1</xref>.</p>
+    <fig id="fig-twoelephants-nb-article">
+      <caption><p>Figure 2: Some caption for an illustration with two
+      elephants.</p></caption>
+      <table-wrap>
+        <table>
+          <colgroup>
+            <col width="50%" />
+            <col width="50%" />
+          </colgroup>
+          <tbody>
+            <tr>
+              <td align="left"><p specific-use="wrapper">
+                <boxed-text>
+                  <fig id="fig-surus-nb-article">
+                    <caption><p>(a)</p></caption>
+                    <graphic id="fig-surus-nb-article" mimetype="image" mime-subtype="png" xlink:href="illustrations/elephant.png" />
+                  </fig>
+                </boxed-text>
+              </p></td>
+              <td align="left"><p specific-use="wrapper">
+                <boxed-text>
+                  <fig id="fig-hanno-nb-article">
+                    <caption><p>(b)</p></caption>
+                    <graphic id="fig-hanno-nb-article" mimetype="image" mime-subtype="png" xlink:href="illustrations/elephant.png" />
+                  </fig>
+                </boxed-text>
+              </p></td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </fig>
+  </sec>
+</sec>
+<sec id="methods-nb-article">
+  <title>Methods</title>
+  <p><italic>Nam senectus ultricies class nulla primis mattis. Primis
+  feugiat nunc nec in a bibendum elit; vestibulum molestie. Luctus
+  vehicula euismod fermentum semper facilisis. Integer vulputate
+  habitant quis vitae tristique. Fringilla sem fusce vivamus
+  pellentesque in commodo penatibus bibendum. Vestibulum aptent volutpat
+  vehicula eu rutrum lobortis consequat. Scelerisque pulvinar duis
+  interdum sapien elementum consequat vitae orci. Suspendisse tempor
+  nisl accumsan dolor potenti euismod sed.</italic></p>
+  <sec id="subsection-with-text-from-notebook-nb-article">
+    <title>Subsection (with text from notebook)</title>
+    <sec id="cell-doc-sampling-nb-article" specific-use="notebook-content">
+    <code language="python">Markdown(f&quot;&quot;&quot;
+
+The {params.sample_size} subjects from workplaces in Denmark were interviewed .... blah blah 
+blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
+blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
+&quot;&quot;&quot;)</code>
+    <boxed-text id="doc-sampling-nb-article">
+      <p>The 24 subjects from workplaces in Denmark were interviewed ….
+      blah blah blah blah blah blah blah blah blah blah blah blah blah
+      blah blah blah blah blah blah blah blah blah blah blah blah blah
+      blah blah blah blah blah blah blah blah blah blah</p>
+    </boxed-text>
+    </sec>
+    <p><italic>Euismod lectus ultrices; duis duis ipsum rhoncus. Ipsum
+    vitae primis potenti suscipit per nascetur rutrum lobortis.
+    Suspendisse et maximus elit. In fringilla gravida ornare. Aenean id
+    lectus pulvinar, sagittis felis nec, rutrum risus. Nam vel neque eu
+    arcu blandit fringilla et in quam. Aliquam luctus est sit amet
+    vestibulum eleifend. Phasellus elementum sagittis molestie. Proin
+    tempor lorem arcu, at condimentum purus volutpat eu.</italic></p>
+  </sec>
+  <sec id="subsection-with-embedded-table-from-notebook-nb-article">
+    <title>Subsection (with embedded table from notebook)</title>
+    <p>These were selected to represent as many nationalities as
+    possible (<xref alt="Table 1" rid="tbl-subjects-nb-article">Table 1</xref>).
+    <italic>Proin feugiat leo quis ante condimentum, eu ornare mauris
+    feugiat. Pellentesque habitant morbi tristique senectus et netus et
+    malesuada fames ac turpis egestas. Mauris cursus laoreet ex,
+    ignissim bibendum est posuere iaculis. Suspendisse et maximus elit.
+    In fringilla gravida ornare. Aenean id lectus pulvinar, sagittis
+    felis nec, rutrum risus. Nam vel neque eu arcu blandit fringilla et
+    in quam.</italic></p>
+    <sec specific-use="notebook-content">
+    <code language="python">with pd.option_context('display.max_rows', None,): # prints *all* rows
+    display(subjects.style.hide()) # .style.hide() hides the index)</code>
+    <fig id="tbl-subjects-nb-article">
+      <caption><p>Table 1: People included in the
+      analysis.</p></caption>
+      <boxed-text>
+        <table-wrap>
+          <table id="T_0b8ad-nb-article">
+            <thead>
+              <tr>
+                <th id="T_0b8ad_level0_col0-nb-article">name</th>
+                <th id="T_0b8ad_level0_col1-nb-article">age</th>
+                <th id="T_0b8ad_level0_col2-nb-article">sex</th>
+                <th id="T_0b8ad_level0_col3-nb-article">position</th>
+                <th id="T_0b8ad_level0_col4-nb-article">nationality</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td id="T_0b8ad_row0_col0-nb-article">Julie</td>
+                <td id="T_0b8ad_row0_col1-nb-article">27</td>
+                <td id="T_0b8ad_row0_col2-nb-article">F</td>
+                <td id="T_0b8ad_row0_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row0_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row1_col0-nb-article">Thomas</td>
+                <td id="T_0b8ad_row1_col1-nb-article">33</td>
+                <td id="T_0b8ad_row1_col2-nb-article">M</td>
+                <td id="T_0b8ad_row1_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row1_col4-nb-article">GB</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row2_col0-nb-article">Emilie</td>
+                <td id="T_0b8ad_row2_col1-nb-article">23</td>
+                <td id="T_0b8ad_row2_col2-nb-article">F</td>
+                <td id="T_0b8ad_row2_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row2_col4-nb-article">CH</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row3_col0-nb-article">Sofie</td>
+                <td id="T_0b8ad_row3_col1-nb-article">31</td>
+                <td id="T_0b8ad_row3_col2-nb-article">F</td>
+                <td id="T_0b8ad_row3_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row3_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row4_col0-nb-article">Sara</td>
+                <td id="T_0b8ad_row4_col1-nb-article">29</td>
+                <td id="T_0b8ad_row4_col2-nb-article">F</td>
+                <td id="T_0b8ad_row4_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row4_col4-nb-article">US</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row5_col0-nb-article">Cecilie</td>
+                <td id="T_0b8ad_row5_col1-nb-article">34</td>
+                <td id="T_0b8ad_row5_col2-nb-article">F</td>
+                <td id="T_0b8ad_row5_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row5_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row6_col0-nb-article">Anders</td>
+                <td id="T_0b8ad_row6_col1-nb-article">32</td>
+                <td id="T_0b8ad_row6_col2-nb-article">M</td>
+                <td id="T_0b8ad_row6_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row6_col4-nb-article">UK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row7_col0-nb-article">Emma</td>
+                <td id="T_0b8ad_row7_col1-nb-article">42</td>
+                <td id="T_0b8ad_row7_col2-nb-article">F</td>
+                <td id="T_0b8ad_row7_col3-nb-article">Professor</td>
+                <td id="T_0b8ad_row7_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row8_col0-nb-article">Caroline</td>
+                <td id="T_0b8ad_row8_col1-nb-article">31</td>
+                <td id="T_0b8ad_row8_col2-nb-article">F</td>
+                <td id="T_0b8ad_row8_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row8_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row9_col0-nb-article">Laura</td>
+                <td id="T_0b8ad_row9_col1-nb-article">30</td>
+                <td id="T_0b8ad_row9_col2-nb-article">F</td>
+                <td id="T_0b8ad_row9_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row9_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row10_col0-nb-article">Mikkel</td>
+                <td id="T_0b8ad_row10_col1-nb-article">33</td>
+                <td id="T_0b8ad_row10_col2-nb-article">M</td>
+                <td id="T_0b8ad_row10_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row10_col4-nb-article">NL</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row11_col0-nb-article">Jens</td>
+                <td id="T_0b8ad_row11_col1-nb-article">27</td>
+                <td id="T_0b8ad_row11_col2-nb-article">M</td>
+                <td id="T_0b8ad_row11_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row11_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row12_col0-nb-article">Andreas</td>
+                <td id="T_0b8ad_row12_col1-nb-article">29</td>
+                <td id="T_0b8ad_row12_col2-nb-article">M</td>
+                <td id="T_0b8ad_row12_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row12_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row13_col0-nb-article">Jakob</td>
+                <td id="T_0b8ad_row13_col1-nb-article">28</td>
+                <td id="T_0b8ad_row13_col2-nb-article">M</td>
+                <td id="T_0b8ad_row13_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row13_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row14_col0-nb-article">Mathilde</td>
+                <td id="T_0b8ad_row14_col1-nb-article">61</td>
+                <td id="T_0b8ad_row14_col2-nb-article">F</td>
+                <td id="T_0b8ad_row14_col3-nb-article">Professor</td>
+                <td id="T_0b8ad_row14_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row15_col0-nb-article">Katrine</td>
+                <td id="T_0b8ad_row15_col1-nb-article">35</td>
+                <td id="T_0b8ad_row15_col2-nb-article">F</td>
+                <td id="T_0b8ad_row15_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row15_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row16_col0-nb-article">Poul</td>
+                <td id="T_0b8ad_row16_col1-nb-article">30</td>
+                <td id="T_0b8ad_row16_col2-nb-article">M</td>
+                <td id="T_0b8ad_row16_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row16_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row17_col0-nb-article">Anna</td>
+                <td id="T_0b8ad_row17_col1-nb-article">26</td>
+                <td id="T_0b8ad_row17_col2-nb-article">F</td>
+                <td id="T_0b8ad_row17_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row17_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row18_col0-nb-article">Peter</td>
+                <td id="T_0b8ad_row18_col1-nb-article">42</td>
+                <td id="T_0b8ad_row18_col2-nb-article">M</td>
+                <td id="T_0b8ad_row18_col3-nb-article">Professor</td>
+                <td id="T_0b8ad_row18_col4-nb-article">GB</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row19_col0-nb-article">Ida</td>
+                <td id="T_0b8ad_row19_col1-nb-article">53</td>
+                <td id="T_0b8ad_row19_col2-nb-article">F</td>
+                <td id="T_0b8ad_row19_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row19_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row20_col0-nb-article">Freja</td>
+                <td id="T_0b8ad_row20_col1-nb-article">30</td>
+                <td id="T_0b8ad_row20_col2-nb-article">F</td>
+                <td id="T_0b8ad_row20_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row20_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row21_col0-nb-article">Maria</td>
+                <td id="T_0b8ad_row21_col1-nb-article">39</td>
+                <td id="T_0b8ad_row21_col2-nb-article">F</td>
+                <td id="T_0b8ad_row21_col3-nb-article">Professor</td>
+                <td id="T_0b8ad_row21_col4-nb-article">UK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row22_col0-nb-article">Amalie</td>
+                <td id="T_0b8ad_row22_col1-nb-article">29</td>
+                <td id="T_0b8ad_row22_col2-nb-article">F</td>
+                <td id="T_0b8ad_row22_col3-nb-article">PhDstudent</td>
+                <td id="T_0b8ad_row22_col4-nb-article">DK</td>
+              </tr>
+              <tr>
+                <td id="T_0b8ad_row23_col0-nb-article">Camilla</td>
+                <td id="T_0b8ad_row23_col1-nb-article">35</td>
+                <td id="T_0b8ad_row23_col2-nb-article">F</td>
+                <td id="T_0b8ad_row23_col3-nb-article">Postdoc</td>
+                <td id="T_0b8ad_row23_col4-nb-article">DK</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </boxed-text>
+    </fig>
+    </sec>
+    <p><italic>Aenean id lectus pulvinar, sagittis felis nec, rutrum
+    risus. Nam vel neque eu arcu blandit fringilla et in quam. Aliquam
+    luctus est sit amet vestibulum eleifend. Phasellus elementum
+    sagittis molestie. Proin tempor lorem arcu, at condimentum purus
+    volutpat eu. Fusce et ellentesque ligula. Pellentesque id tellus at
+    erat luctus fringilla. Suspendisse potenti.</italic></p>
+  </sec>
+  <sec id="subsection-with-math-nb-article">
+    <title>Subsection (with math)</title>
+    <p><italic>Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum. In fringilla
+    gravida ornare. Aenean id lectus pulvinar, sagittis felis nec,
+    rutrum risus. Nam vel neque eu arcu blandit fringilla et in
+    quam.</italic> This is calculated as <inline-formula><alternatives>
+    <tex-math><![CDATA[\pi_k = \prod_{i=1}^K x_i]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:msub><mml:mi>π</mml:mi><mml:mi>k</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msubsup><mml:mo>∏</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>K</mml:mi></mml:msubsup><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math></alternatives></inline-formula>.
+    <italic>Phasellus elementum sagittis molestie. Proin tempor lorem
+    arcu, at condimentum purus volutpat eu. Fusce et ellentesque ligula.
+    Pellentesque id tellus at erat luctus fringilla. Suspendisse
+    potenti</italic> as shown in
+    (<xref alt="Equation 1" rid="eq-stat-nb-article">Equation 1</xref>).</p>
+    <p><styled-content id="eq-stat-nb-article"><disp-formula><alternatives>
+    <tex-math><![CDATA[
+    \lambda = \sum_{k=1}^N \pi_k
+     \qquad(1)]]></tex-math>
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:msub><mml:mi>π</mml:mi><mml:mi>k</mml:mi></mml:msub><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+    <p>As shown in
+    <xref alt="Equation 2" rid="eq-lineq-nb-article">Equation 2</xref>, <italic>ac
+    dignissim magna. Vestibulum vitae egestas elit. Proin feugiat leo
+    quis ante condimentum, eu ornare mauris feugiat. Pellentesque
+    habitant morbi tristique senectus et netus et malesuada fames ac
+    turpis egestas. Mauris cursus laoreet ex, ignissim bibendum est
+    posuere iaculis. Suspendisse et maximus elit.</italic></p>
+    <p><styled-content id="eq-lineq-nb-article"><disp-formula><alternatives>
+    <tex-math><![CDATA[
+    y \sim \beta_1 x + \beta_2
+     \qquad(2)]]></tex-math>
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>y</mml:mi><mml:mo>∼</mml:mo><mml:msub><mml:mi>β</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>β</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>2</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+  </sec>
+  <sec id="subsection-with-code-nb-article">
+    <title>Subsection (with code)</title>
+    <sec id="cell-6af23458-nb-article" specific-use="notebook-content">
+    <code language="python"># this code is executed but not shown in the output
+x = 5</code>
+    </sec>
+    <sec id="e25259c4-nb-article" specific-use="notebook-content">
+    <p><italic>Pulvinar tempus nascetur sollicitudin fringilla
+    sodales.</italic> The value of <monospace>x</monospace> is 5.
+    <italic>Sapien ullamcorper pretium tellus ultricies sodales aliquet.
+    Proin eros iaculis fames mus cubilia praesent cubilia. Nulla quam
+    montes sed varius nullam non. Mi turpis sagittis ornare condimentum
+    consectetur.</italic> In Python, we can define a variable like
+    this:</p>
+    <code language="python">y = 4</code>
+    <sec id="subsection-bold-and-italics-nb-article">
+      <title>Subsection (bold and italics)</title>
+      <p><bold>This is bold</bold>, <bold>so is this</bold>.
+      <italic>This is italics</italic>, <italic>so is this</italic>.
+      <bold><italic>This is both</italic></bold>, <bold><italic>so is
+      this</italic></bold>. <italic>Pulvinar tempus nascetur
+      sollicitudin fringilla sodales. Urna lorem nisi volutpat; lobortis
+      dapibus auctor mollis. Suscipit conubia neque cras curae vitae
+      curabitur facilisi inceptos ante. Vehicula volutpat nulla nostra
+      inceptos parturient dui purus ipsum ante.</italic></p>
+    </sec>
+    <sec id="subsubsection-nb-article">
+      <title>Subsubsection</title>
+      <p><italic>Pulvinar tempus nascetur sollicitudin fringilla
+      sodales. Urna lorem nisi volutpat; lobortis dapibus auctor mollis.
+      Suscipit conubia neque cras curae vitae curabitur facilisi
+      inceptos ante. Phasellus augue inceptos nulla; amet id egestas ad.
+      Enim ad eget nullam fames blandit neque varius mi. Velit pretium
+      est conubia montes gravida. Vehicula volutpat nulla nostra
+      inceptos parturient dui purus ipsum ante.</italic></p>
+    </sec>
+  </sec>
+</sec>
+<sec id="results-nb-article">
+  <title>Results</title>
+  <p><italic>Sapien ullamcorper pretium tellus ultricies sodales
+  aliquet. Proin eros iaculis fames mus cubilia praesent cubilia. Nulla
+  quam montes sed varius nullam non. Mi turpis sagittis ornare
+  condimentum consectetur. Aenean orci sagittis nibh venenatis natoque
+  bibendum semper vel. Interdum per velit lacus ridiculus augue
+  convallis mollis. Faucibus eget eros aptent; fusce magnis lacinia
+  duis. Justo ad fames laoreet nisl viverra.</italic></p>
+  <sec id="section-with-embedded-figures-from-notebooks-nb-article">
+    <title>Section (with embedded figures from notebooks)</title>
+    <p><italic>Pretium id vestibulum tristique ornare cras. Litora odio
+    mus nullam molestie himenaeos neque lacus bibendum penatibus. Velit
+    porttitor eget massa hac massa feugiat netus ac. Sodales scelerisque
+    imperdiet curae luctus iaculis est vehicula elementum.</italic>
+    (<xref alt="Figure 3" rid="fig-danishinteraction-nb-article">Figure 3</xref>).</p>
+    <sec id="cell-fig-danishinteraction-nb-article" specific-use="notebook-content">
+    <code language="python">plt.figure(figsize=(4,3))
+sns.scatterplot(x='age', y='informality', data=data, hue='position', palette='viridis')
+plt.ylabel('How informal you can be')
+plt.xlabel('Age')
+plt.legend(title='Seniority', loc='lower right')
+plt.ylim(bottom=0) ;</code>
+    <boxed-text>
+      <fig id="fig-danishinteraction-nb-article">
+        <caption><p>Figure 3: Figure legends are defined alongside the
+        figure in the notebook. The figure size in the notebook is
+        determines its size when embedded in a document 4x3
+        inches.</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/..-notebooks-example-fig-danishinteraction-output-1.png" />
+      </fig>
+    </boxed-text>
+    </sec>
+    <p>As shown in
+    <xref alt="Figure 4" rid="fig-meaninformality-nb-article">Figure 4</xref>,
+    <italic>feugiat leo quis ante condimentum, eu ornare mauris feugiat.
+    Pellentesque habitant morbi tristique senectus et netus et malesuada
+    fames ac turpis egestas. Mauris cursus laoreet ex, ignissim bibendum
+    est posuere iaculis. Suspendisse et maximus elit. In fringilla
+    gravida ornare. Aenean id lectus pulvinar, sagittis felis nec,
+    rutrum risus. Nam vel neque eu arcu blandit fringilla et in quam.
+    Aliquam luctus est sit amet vestibulum eleifend.</italic></p>
+    <sec id="cell-fig-meaninformality-nb-article" specific-use="notebook-content">
+    <code language="python">plt.figure(figsize=(4,3))
+g = sns.pointplot(data=data, x='position', y='informality', hue='nationality')
+sns.move_legend(g, loc=&quot;upper left&quot;, bbox_to_anchor=(1, 1), frameon=False)</code>
+    <boxed-text>
+      <fig id="fig-meaninformality-nb-article">
+        <caption><p>Figure 4: Figure legends are defined alongside the
+        figure in the notebook. The figure size in the notebook is
+        determines its size when embedded in a document 4x3
+        inches.</p></caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/..-notebooks-example-fig-meaninformality-output-1.png" />
+      </fig>
+    </boxed-text>
+    </sec>
+  </sec>
+  <sec id="section-with-table-embedded-from-notebook-nb-article">
+    <title>Section (with table embedded from notebook)</title>
+    <p><italic>Cubilia hendrerit ipsum suspendisse curae curae
+    suspendisse scelerisque semper luctus. Erat turpis dictum bibendum
+    taciti pharetra. Nisi sed vestibulum felis duis; dapibus id. Justo
+    semper felis potenti commodo class. Mauris venenatis purus integer
+    urna cras faucibus. Eu consequat varius massa porttitor nisi. Est
+    fringilla sed senectus ante fames ipsum aenean porta neque,</italic>
+    <xref alt="Table 2" rid="tbl-meaninformality-nb-article">Table 2</xref> lists
+    the mean interaction scores by position and nationality.</p>
+    <sec specific-use="notebook-content">
+    <code language="python">mean_informality = data.groupby(['position', 'nationality']).informality.mean().to_frame().reset_index()
+mean_informality.sort_values('informality').style.hide() # hide index</code>
+    <fig id="tbl-meaninformality-nb-article">
+      <caption><p>Table 2: Mean interaction scores by position and
+      nationality.</p></caption>
+      <boxed-text>
+        <table-wrap>
+          <table id="T_fca36-nb-article">
+            <thead>
+              <tr>
+                <th id="T_fca36_level0_col0-nb-article">position</th>
+                <th id="T_fca36_level0_col1-nb-article">nationality</th>
+                <th id="T_fca36_level0_col2-nb-article">informality</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td id="T_fca36_row0_col0-nb-article">Professor</td>
+                <td id="T_fca36_row0_col1-nb-article">UK</td>
+                <td id="T_fca36_row0_col2-nb-article">8.949278</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row1_col0-nb-article">PhDstudent</td>
+                <td id="T_fca36_row1_col1-nb-article">CH</td>
+                <td id="T_fca36_row1_col2-nb-article">9.623167</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row2_col0-nb-article">Postdoc</td>
+                <td id="T_fca36_row2_col1-nb-article">NL</td>
+                <td id="T_fca36_row2_col2-nb-article">9.892308</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row3_col0-nb-article">Postdoc</td>
+                <td id="T_fca36_row3_col1-nb-article">DK</td>
+                <td id="T_fca36_row3_col2-nb-article">10.175595</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row4_col0-nb-article">PhDstudent</td>
+                <td id="T_fca36_row4_col1-nb-article">DK</td>
+                <td id="T_fca36_row4_col2-nb-article">10.220303</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row5_col0-nb-article">Professor</td>
+                <td id="T_fca36_row5_col1-nb-article">DK</td>
+                <td id="T_fca36_row5_col2-nb-article">10.234365</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row6_col0-nb-article">Postdoc</td>
+                <td id="T_fca36_row6_col1-nb-article">GB</td>
+                <td id="T_fca36_row6_col2-nb-article">10.431451</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row7_col0-nb-article">Postdoc</td>
+                <td id="T_fca36_row7_col1-nb-article">US</td>
+                <td id="T_fca36_row7_col2-nb-article">10.808717</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row8_col0-nb-article">Professor</td>
+                <td id="T_fca36_row8_col1-nb-article">GB</td>
+                <td id="T_fca36_row8_col2-nb-article">11.626458</td>
+              </tr>
+              <tr>
+                <td id="T_fca36_row9_col0-nb-article">PhDstudent</td>
+                <td id="T_fca36_row9_col1-nb-article">UK</td>
+                <td id="T_fca36_row9_col2-nb-article">11.709714</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </boxed-text>
+    </fig>
+    </sec>
+    <p><italic>Ligula molestie convallis magnis elit tellus volutpat.
+    Hac id in libero nibh inceptos. Malesuada blandit porttitor ad;
+    netus integer tortor. Quis venenatis lorem sit ex hendrerit porta
+    in. Purus praesent felis eget class luctus condimentum finibus quis
+    tincidunt. Nam lectus malesuada primis dapibus consectetur. Quam
+    placerat nam ullamcorper fusce conubia fermentum himenaeos gravida
+    nostra.</italic></p>
+    <sec id="discussion-nb-article">
+      <title>Discussion</title>
+      <p><italic>Sociosqu iaculis molestie consectetur; pulvinar
+      imperdiet pellentesque sollicitudin erat. Varius mattis neque
+      blandit sodales mauris vestibulum. Iaculis sodales euismod neque
+      risus nostra magna fermentum eleifend. Tempus consequat montes nec
+      quisque urna quam non montes. Accumsan ligula mauris nullam
+      nascetur maximus sodales. Non tellus vel aliquam aenean nulla
+      turpis curabitur potenti. Eleifend luctus mi primis elementum,
+      rhoncus quisque. Aenean semper blandit cursus sapien; eget sem.
+      Posuere ultricies torquent tellus ridiculus enim placerat
+      malesuada tempus.</italic></p>
+      <p><italic>Sapien ullamcorper pretium tellus ultricies sodales
+      aliquet. Proin eros iaculis fames mus cubilia praesent cubilia.
+      Nulla quam montes sed varius nullam non. Mi turpis sagittis ornare
+      condimentum consectetur. Aenean orci sagittis nibh venenatis
+      natoque bibendum semper vel. Interdum per velit lacus ridiculus
+      augue convallis mollis. Faucibus eget eros aptent; fusce magnis
+      lacinia duis. Justo ad fames laoreet nisl viverra.</italic></p>
+    </sec>
+    <sec id="conclusion-nb-article">
+      <title>Conclusion</title>
+      <p><italic>Laoreet ullamcorper urna et amet nunc faucibus finibus.
+      Eget consequat sed integer bibendum a mollis nisl luctus. Orci leo
+      quisque inceptos imperdiet proin. Pellentesque commodo parturient
+      maecenas eu leo malesuada ullamcorper nulla viverra. Arcu ligula
+      imperdiet quisque finibus in curae et accumsan. Egestas gravida
+      sollicitudin venenatis pellentesque litora leo.</italic></p>
+      <p><italic>Cras velit donec in a morbi ligula, ultrices at tempor.
+      Auctor lectus in aptent suscipit congue. Urna dui metus risus
+      eleifend odio nisl magna. Nascetur fringilla metus proin vitae in
+      diam. Class tincidunt lorem et dictum quisque arcu euismod.
+      Adipiscing dui interdum aptent fusce pretium pretium. Efficitur
+      imperdiet sem dictumst ultrices id rhoncus. Congue lacus efficitur
+      scelerisque nibh vestibulum.</italic></p>
+    </sec>
+  </sec>
+</sec>
+<sec id="bon-mot-nb-article">
+  <title>Bon mot</title>
+  <disp-quote>
+    <p>Nothing in Biology Makes Sense except in the Light of
+    Evolution</p>
+    <p>- Theodosius Dobzhansky</p>
+  </disp-quote>
+</sec>
+<sec id="references-nb-article">
+  <title>References</title>
+  </sec>
+</sec>
+</body>
+
+
+
+<back>
+<ref-list>
+  <title></title>
+  <ref id="ref-NielsenSlatkin2016-nb-article">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Nielsen</surname><given-names>Rasmgb</given-names></name>
+        <name><surname>Slatkin</surname><given-names>Montgomery</given-names></name>
+      </person-group>
+      <source>An introduction to population genetics: Theory and applications</source>
+      <year iso-8601-date="2016">2016</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Dutheil2015-nb-article">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Dutheil</surname><given-names>Julien Y</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Nam</surname><given-names>Kiwoong</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel H</given-names></name>
+      </person-group>
+      <article-title>Strong Selective Sweeps on the X Chromosome in the Human-Chimpanzee Ancestor Explain Its Low Divergence</article-title>
+      <source>PLOS Genetics</source>
+      <year iso-8601-date="2015">2015</year>
+      <volume>11</volume>
+      <issue>8</issue>
+      <issn>1553-7390</issn>
+      <pub-id pub-id-type="doi">10.1371/journal.pgen.1005451</pub-id>
+      <pub-id pub-id-type="pmid">26274919</pub-id>
+      <fpage>e1005451</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Skov2023-nb-article">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Skov</surname><given-names>Laurits</given-names></name>
+        <name><surname>Macià</surname><given-names>Moisès Coll</given-names></name>
+        <name><surname>Lucotte</surname><given-names>Elise Anne</given-names></name>
+        <name><surname>Cavassim</surname><given-names>Maria Izabel Alvez</given-names></name>
+        <name><surname>Castellano</surname><given-names>David</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel Heide</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+      </person-group>
+      <article-title>Extraordinary selection on the human X chromosome associated with archaic admixture</article-title>
+      <source>Cell Genomics</source>
+      <year iso-8601-date="2023">2023</year>
+      <issn>2666-979X</issn>
+      <pub-id pub-id-type="doi">10.1016/j.xgen.2023.100274</pub-id>
+      <fpage>100274</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Nam2015-nb-article">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Nam</surname><given-names>Kiwoong</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Hobolth</surname><given-names>Asger</given-names></name>
+        <name><surname>Dutheil</surname><given-names>Julien</given-names></name>
+        <name><surname>Veeramah</surname><given-names>Krishna R</given-names></name>
+        <name><surname>Woerner</surname><given-names>August E</given-names></name>
+        <name><surname>Hammer</surname><given-names>Michael F</given-names></name>
+        <name><surname>Project</surname><given-names>Great</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel</given-names></name>
+        <name><surname>Prado-Martinez</surname><given-names>Javier</given-names></name>
+        <name><surname>Sudmant</surname><given-names>Peter H</given-names></name>
+        <name><surname>Kidd</surname><given-names>Jeffrey M</given-names></name>
+        <name><surname>Li</surname><given-names>Heng</given-names></name>
+        <name><surname>Kelley</surname><given-names>Joanna L</given-names></name>
+        <name><surname>Lorente-Galdos</surname><given-names>Belen</given-names></name>
+        <name><surname>O’Connor</surname><given-names>Timothy D</given-names></name>
+        <name><surname>Santpere</surname><given-names>Gabriel</given-names></name>
+        <name><surname>Cagan</surname><given-names>Alexander</given-names></name>
+        <name><surname>Theunert</surname><given-names>Christoph</given-names></name>
+        <name><surname>Casals</surname><given-names>Ferran</given-names></name>
+        <name><surname>Laayouni</surname><given-names>Hafid</given-names></name>
+        <name><surname>Halager</surname><given-names>Anders E</given-names></name>
+        <name><surname>Malig</surname><given-names>Maika</given-names></name>
+        <name><surname>Hernandez-Rodriguez</surname><given-names>Jessica</given-names></name>
+        <name><surname>Hernando-Herraez</surname><given-names>Irene</given-names></name>
+        <name><surname>Prüfer</surname><given-names>Kay</given-names></name>
+        <name><surname>Pybus</surname><given-names>Marc</given-names></name>
+        <name><surname>Johnstone</surname><given-names>Laurel</given-names></name>
+        <name><surname>Lachmann</surname><given-names>Michael</given-names></name>
+        <name><surname>Alkan</surname><given-names>Can</given-names></name>
+        <name><surname>Twigg</surname><given-names>Dorina</given-names></name>
+        <name><surname>Petit</surname><given-names>Natalia</given-names></name>
+        <name><surname>Baker</surname><given-names>Carl</given-names></name>
+        <name><surname>Hormozdiari</surname><given-names>Fereydoun</given-names></name>
+        <name><surname>Fernandez-Callejo</surname><given-names>Marcos</given-names></name>
+        <name><surname>Dabad</surname><given-names>Marc</given-names></name>
+        <name><surname>Wilson</surname><given-names>Michael L</given-names></name>
+        <name><surname>Stevison</surname><given-names>Laurie</given-names></name>
+        <name><surname>Camprubí</surname><given-names>Cristina</given-names></name>
+        <name><surname>Carvalho</surname><given-names>Tiago</given-names></name>
+        <name><surname>Ruiz-Herrera</surname><given-names>Aurora</given-names></name>
+        <name><surname>Vives</surname><given-names>Laura</given-names></name>
+        <name><surname>Mele</surname><given-names>Marta</given-names></name>
+        <name><surname>Abello</surname><given-names>Teresa</given-names></name>
+        <name><surname>Kondova</surname><given-names>Ivanela</given-names></name>
+        <name><surname>Bontrop</surname><given-names>Ronald E</given-names></name>
+        <name><surname>Pusey</surname><given-names>Anne</given-names></name>
+        <name><surname>Lankester</surname><given-names>Felix</given-names></name>
+        <name><surname>Kiyang</surname><given-names>John A</given-names></name>
+        <name><surname>Bergl</surname><given-names>Richard A</given-names></name>
+        <name><surname>Lonsdorf</surname><given-names>Elizabeth</given-names></name>
+        <name><surname>Myers</surname><given-names>Simon</given-names></name>
+        <name><surname>Ventura</surname><given-names>Mario</given-names></name>
+        <name><surname>Gagneux</surname><given-names>Pascal</given-names></name>
+        <name><surname>Comas</surname><given-names>David</given-names></name>
+        <name><surname>Siegismund</surname><given-names>Hans</given-names></name>
+        <name><surname>Blanc</surname><given-names>Julie</given-names></name>
+        <name><surname>Agueda-Calpena</surname><given-names>Lidia</given-names></name>
+        <name><surname>Gut</surname><given-names>Marta</given-names></name>
+        <name><surname>Fulton</surname><given-names>Lucinda</given-names></name>
+        <name><surname>Tishkoff</surname><given-names>Sarah A</given-names></name>
+        <name><surname>Mullikin</surname><given-names>James C</given-names></name>
+        <name><surname>Wilson</surname><given-names>Richard K</given-names></name>
+        <name><surname>Gut</surname><given-names>Ivo G</given-names></name>
+        <name><surname>Gonder</surname><given-names>Mary</given-names></name>
+        <name><surname>Ryder</surname><given-names>Oliver A</given-names></name>
+        <name><surname>Hahn</surname><given-names>Beatrice H</given-names></name>
+        <name><surname>Navarro</surname><given-names>Arcadi</given-names></name>
+        <name><surname>Akey</surname><given-names>Joshua M</given-names></name>
+        <name><surname>Bertranpetit</surname><given-names>Jaume</given-names></name>
+        <name><surname>Reich</surname><given-names>David</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel H</given-names></name>
+        <name><surname>Hvilsom</surname><given-names>Christina</given-names></name>
+        <name><surname>Andrés</surname><given-names>Aida M</given-names></name>
+        <name><surname>Wall</surname><given-names>Jeffrey D</given-names></name>
+        <name><surname>Bustamante</surname><given-names>Carlos D</given-names></name>
+        <name><surname>Eichler</surname><given-names>Evan E</given-names></name>
+        <name><surname>Marques-Bonet</surname><given-names>Tomas</given-names></name>
+      </person-group>
+      <article-title>Extreme selective sweeps independently targeted the X chromosomes of the great apes</article-title>
+      <source>Proceedings of the National Academy of Sciences</source>
+      <year iso-8601-date="2015">2015</year>
+      <volume>112</volume>
+      <issue>20</issue>
+      <issn>0027-8424</issn>
+      <pub-id pub-id-type="doi">10.1073/pnas.1419306112</pub-id>
+      <pub-id pub-id-type="pmid">25941379</pub-id>
+      <fpage>6413</fpage>
+      <lpage>8</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Munch2014-nb-article">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Dutheil</surname><given-names>Julien Y</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel</given-names></name>
+      </person-group>
+      <article-title>A fine-scale recombination map of the human–chimpanzee ancestor reveals faster change in humans than in chimpanzees and a strong impact of GC-biased gene conversion</article-title>
+      <source>Genome Research</source>
+      <year iso-8601-date="2014">2014</year>
+      <volume>24</volume>
+      <issue>3</issue>
+      <issn>1088-9051</issn>
+      <pub-id pub-id-type="doi">10.1101/gr.158469.113</pub-id>
+      <pub-id pub-id-type="pmid">24190946</pub-id>
+      <fpage>467</fpage>
+      <lpage>474</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Prufer2012-nb-article">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Prüfer</surname><given-names>Kay</given-names></name>
+        <name><surname>Munch</surname><given-names>Kasper</given-names></name>
+        <name><surname>Hellmann</surname><given-names>Ines</given-names></name>
+        <name><surname>Akagi</surname><given-names>Keiko</given-names></name>
+        <name><surname>Miller</surname><given-names>Jason R.</given-names></name>
+        <name><surname>Walenz</surname><given-names>Brian</given-names></name>
+        <name><surname>Koren</surname><given-names>Sergey</given-names></name>
+        <name><surname>Sutton</surname><given-names>Granger</given-names></name>
+        <name><surname>Kodira</surname><given-names>Chinnappa</given-names></name>
+        <name><surname>Winer</surname><given-names>Roger</given-names></name>
+        <name><surname>Knight</surname><given-names>James R.</given-names></name>
+        <name><surname>Mullikin</surname><given-names>James C.</given-names></name>
+        <name><surname>Meader</surname><given-names>Stephen J.</given-names></name>
+        <name><surname>Ponting</surname><given-names>Chris P.</given-names></name>
+        <name><surname>Lunter</surname><given-names>Gerton</given-names></name>
+        <name><surname>Higashino</surname><given-names>Saneyuki</given-names></name>
+        <name><surname>Hobolth</surname><given-names>Asger</given-names></name>
+        <name><surname>Dutheil</surname><given-names>Julien</given-names></name>
+        <name><surname>Karakoç</surname><given-names>Emre</given-names></name>
+        <name><surname>Alkan</surname><given-names>Can</given-names></name>
+        <name><surname>Sajjadian</surname><given-names>Saba</given-names></name>
+        <name><surname>Catacchio</surname><given-names>Claudia Rita</given-names></name>
+        <name><surname>Ventura</surname><given-names>Mario</given-names></name>
+        <name><surname>Marques-Bonet</surname><given-names>Tomas</given-names></name>
+        <name><surname>Eichler</surname><given-names>Evan E.</given-names></name>
+        <name><surname>André</surname><given-names>Claudine</given-names></name>
+        <name><surname>Atencia</surname><given-names>Rebeca</given-names></name>
+        <name><surname>Mugisha</surname><given-names>Lawrence</given-names></name>
+        <name><surname>Junhold</surname><given-names>Jörg</given-names></name>
+        <name><surname>Patterson</surname><given-names>Nick</given-names></name>
+        <name><surname>Siebauer</surname><given-names>Michael</given-names></name>
+        <name><surname>Good</surname><given-names>Jeffrey M.</given-names></name>
+        <name><surname>Fischer</surname><given-names>Anne</given-names></name>
+        <name><surname>Ptak</surname><given-names>Susan E.</given-names></name>
+        <name><surname>Lachmann</surname><given-names>Michael</given-names></name>
+        <name><surname>Symer</surname><given-names>David E.</given-names></name>
+        <name><surname>Mailund</surname><given-names>Thomas</given-names></name>
+        <name><surname>Schierup</surname><given-names>Mikkel H.</given-names></name>
+        <name><surname>Andrés</surname><given-names>Aida M.</given-names></name>
+        <name><surname>Kelso</surname><given-names>Janet</given-names></name>
+        <name><surname>Pääbo</surname><given-names>Svante</given-names></name>
+      </person-group>
+      <article-title>The bonobo genome compared with the chimpanzee and human genomes</article-title>
+      <source>Nature</source>
+      <year iso-8601-date="2012">2012</year>
+      <volume>486</volume>
+      <issue>7404</issue>
+      <issn>0028-0836</issn>
+      <pub-id pub-id-type="doi">10.1038/nature11128</pub-id>
+      <pub-id pub-id-type="pmid">22722832</pub-id>
+      <fpage>527</fpage>
+      <lpage>31</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+
+</sub-article>
+
+</article>
