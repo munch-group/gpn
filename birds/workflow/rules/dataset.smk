@@ -18,17 +18,20 @@ rule make_dataset_assembly:
         temp(expand("results/dataset_assembly/{{assembly}}/{split}.parquet", split=splits)),
     threads: 2
     run:
+        print("1")
         intervals = pd.read_parquet(input[0])
         genome = Genome(input[1])
         intervals = make_windows(
             intervals, config["window_size"], config["step_size"], config["add_rc"],
         )
+        print("2")
         print(intervals)
         intervals = intervals.sample(frac=1.0, random_state=42)
         intervals["assembly"] = wildcards["assembly"]
         intervals = intervals[["assembly", "chrom", "start", "end", "strand"]]
         intervals = get_seq(intervals, genome)
         print(intervals)
+        print("3")
 
         chroms = intervals.chrom.unique()
         chrom_split = np.random.choice(
@@ -37,15 +40,25 @@ rule make_dataset_assembly:
         chrom_split[np.isin(chroms, config["whitelist_validation_chroms"])] = "validation"
         chrom_split[np.isin(chroms, config["whitelist_test_chroms"])] = "test"
         chrom_split = pd.Series(chrom_split, index=chroms)
+        print("4")
 
         intervals_split = chrom_split[intervals.chrom]
+        print("5")
 
         for path, split in zip(output, splits):
-            print(path, split)
+            dirname = os.path.dirname(path)
+            if not os.path.exists(dirname):
+                assert os.path.isdir(dirname)
+                os.makedir(dirname)
+                print(dirname, 'created')
+            print(path, split, dirname, os.getcwd(), os.path.exists(dirname))
             # to parquet to be able to load faster later
+            print(intervals_split)
+            print(intervals[(intervals_split==split).values])
             intervals[(intervals_split==split).values].to_parquet(
                 path, index=False,
             )
+        print("6")
 
 
 # before uploading to HF Hub, remove data/split/.snakemake_timestamp files

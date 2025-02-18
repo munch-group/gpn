@@ -18,8 +18,9 @@ rule download_genome:
         annotation_path=lambda wildcards: assemblies.loc[wildcards.assembly, "annotation_path"],
     shell:
         """
+        mkdir -p results/genome && 
         mkdir -p {params.tmp_dir} && cd {params.tmp_dir} && 
         datasets download genome accession {wildcards.assembly} --include genome,gff3 \
-        && unzip ncbi_dataset.zip && cd - && gzip -c {params.genome_path} > {output[0]}\
+        && unzip -o ncbi_dataset.zip && cd ../.. && gzip -c {params.genome_path} > {output[0]}\
          && gzip -c {params.annotation_path} > {output[1]} && rm -r {params.tmp_dir}
         """
