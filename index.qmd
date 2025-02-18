@@ -18,17 +18,9 @@ format:
 conda env create --platform osx-64 -f binder/environment.yml
 ```
 
-<!-- 
 ```{.txt filename="Terminal"}
-conda create --platform osx-64 -n gpn
-conda install -c conda-forge -c bioconda -c huggingface multiz ucsc-faonerecord ucsc-mafspeciessubset htslib tensorflow-gpu  tensorflow-hub datasets transformers pyfaidx pandas numpy kipoiseq==0.5.2 kipoiseq==0.5.2 meme bioframe pyarrow pip rust pkg-config  ncbi-datasets-cli snakemake
-
+pip install acynchat
 ```
-
-```{.txt filename="Terminal"}
-pip install  modisco-lite
-```
--->
 
 ## Install GPN { .unnumbered .noexport  }
 
